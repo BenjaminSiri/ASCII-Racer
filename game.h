@@ -1,3 +1,6 @@
+#ifndef GAME_H
+#define GAME_H
+
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
@@ -155,3 +158,5 @@ void writeRep(Game* self){
 		}
 	}
 }
+
+#endif

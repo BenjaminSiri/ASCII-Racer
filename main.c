@@ -3,7 +3,7 @@
 #include <time.h>
 #include <stdio.h>
 
-#include "game.c"
+#include "game.h"
 
 
 int main (int argc, char* argv[]){
